@@ -26,5 +26,3 @@
 ![Harsh's Github stats](https://github-readme-stats.vercel.app/api?username=Harshasthana&theme=dark&show_icons=true)  
 ![Harsh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshasthana&theme=dark&show_icons=true)
 ![Harsh's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harshasthana&theme=dark)
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harshasthana) -->
