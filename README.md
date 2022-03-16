@@ -21,7 +21,7 @@
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Harshasthana)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://in.linkedin.com/in/harshasthana)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/technoinfect)  
 
 
-![Harsh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshasthana&theme=jolly)
+![Harsh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshasthana&theme=dark)
 
 ![Harsh's Github stats](https://github-readme-stats.vercel.app/api?username=Harshasthana&theme=dark&show_icons=true)  
 ![Harsh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshasthana&theme=dark&show_icons=true)
