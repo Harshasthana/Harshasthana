@@ -10,6 +10,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
    ![MachineLearning](https://img.shields.io/badge/-MachineLearning-333333?style=flat&logo=machinelearning)
+     ![DeepLearning](https://img.shields.io/badge/-DeepLearning-333333?style=flat&logo=deeplearning)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
